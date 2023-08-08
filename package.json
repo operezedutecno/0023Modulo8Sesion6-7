@@ -1,0 +1,27 @@
+{
+  "name": "0023modulo8sesion6-7",
+  "version": "1.0.0",
+  "description": "Introducción a JWT (JSON Web Token)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/operezedutecno/0023Modulo8Sesion6-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/operezedutecno/0023Modulo8Sesion6-7/issues"
+  },
+  "homepage": "https://github.com/operezedutecno/0023Modulo8Sesion6-7#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node.jwt": "^0.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
